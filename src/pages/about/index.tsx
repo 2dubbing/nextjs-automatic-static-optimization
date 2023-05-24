@@ -1,9 +1,9 @@
 import Navigation from "@/@shared/layout/Navigation";
 
-export default function Home() {
+export default function AboutPage() {
   return (
     <Navigation>
-      <p>Home</p>
+      <p>about</p>
     </Navigation>
   );
 }
